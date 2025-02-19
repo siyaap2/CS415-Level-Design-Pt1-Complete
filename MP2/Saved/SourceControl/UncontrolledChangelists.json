@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_UI/W_Restart.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_UI/W_HealthBar+Score.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Enemy/BP_Pursuer.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Enemy/Pursuer_AIController.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_CollectibleandHP/BP_HealthPack.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_CollectibleandHP/BP_Collectible.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Enemy/EAIState.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Maps/MY_Level.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Enemy/BP_Spline.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Level/MYLevel.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_CollectibleandHP/Collectable_Pickup_BP1.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_Collectible/BP_HealthPack.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/Hour_of_Code/Widgets/W_HealthBar+Score.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/Hour_of_Code/Widgets/W_Restart.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/UI/Levels/MYLevel.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/Levels/MYLevel.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Maps/MYLevel.umap",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Pursuer_AIController.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/Levels/NewMap.umap",
+				"C:/Users/siyaap2/Downloads/MP2/Content/Hour_of_Code/Widgets/W_HealthBar.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/Hour_of_Code/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/Interactables/BP_gem.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/Hour_of_Code/Blueprints/BP_gem.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_gem.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/Hour_of_Code/Widgets/W_HealthBar+Score.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/Hour_of_Code/Widgets/W_Restart.uasset",
+				"C:/Users/siyaap2/Downloads/MP2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset"
+			]
+		}
+	]
+}
